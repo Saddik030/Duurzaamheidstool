@@ -1,0 +1,1018 @@
+[
+{"Datacenter / regio":"Arizona","Bedrijf":"Microsoft","Land":"United States","PUE":"1.18","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Illinois","Bedrijf":"Microsoft","Land":"United States","PUE":"1.35","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Iowa","Bedrijf":"Microsoft","Land":"United States","PUE":"1.16","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Texas","Bedrijf":"Microsoft","Land":"United States","PUE":"1.28","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Virginia","Bedrijf":"Microsoft","Land":"United States","PUE":"1.14","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington","Bedrijf":"Microsoft","Land":"United States","PUE":"1.15","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Wyoming","Bedrijf":"Microsoft","Land":"United States","PUE":"1.11","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Singapore","Bedrijf":"Microsoft","Land":"Singapore","PUE":"1.34","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Ireland","Bedrijf":"Microsoft","Land":"Ireland","PUE":"1.19","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Netherlands","Bedrijf":"Microsoft","Land":"Netherlands","PUE":"1.14","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Sweden","Bedrijf":"Microsoft","Land":"Sweden","PUE":"1.16","Carbon Intensity (gCO2/kWh)":"41"}
+,
+{"Datacenter / regio":"Douglas County","Bedrijf":"Google","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Lenoir","Bedrijf":"Google","Land":"United States","PUE":"1.1","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Berkeley County","Bedrijf":"Google","Land":"United States","PUE":"1.1","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Montgomery County","Bedrijf":"Google","Land":"United States","PUE":"1.1","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Jackson County","Bedrijf":"Google","Land":"United States","PUE":"1.1","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Loudoun County","Bedrijf":"Google","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Loudoun County (2nd facility)","Bedrijf":"Google","Land":"United States","PUE":"1.08","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"New Albany","Bedrijf":"Google","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Council Bluffs","Bedrijf":"Google","Land":"United States","PUE":"1.12","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Council Bluffs (2nd facility)","Bedrijf":"Google","Land":"United States","PUE":"1.08","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Papillion","Bedrijf":"Google","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Mayes County","Bedrijf":"Google","Land":"United States","PUE":"1.1","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Midlothian","Bedrijf":"Google","Land":"United States","PUE":"1.12","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"The Dalles","Bedrijf":"Google","Land":"United States","PUE":"1.1","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"The Dalles (2nd facility)","Bedrijf":"Google","Land":"United States","PUE":"1.07","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Henderson","Bedrijf":"Google","Land":"United States","PUE":"1.08","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Storey County","Bedrijf":"Google","Land":"United States","PUE":"1.17","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Dublin","Bedrijf":"Google","Land":"Ireland","PUE":"1.08","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"St. Ghislain","Bedrijf":"Google","Land":"Belgium","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"138"}
+,
+{"Datacenter / regio":"Eemshaven","Bedrijf":"Google","Land":"Netherlands","PUE":"1.07","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Fredericia","Bedrijf":"Google","Land":"Denmark","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"152"}
+,
+{"Datacenter / regio":"Hamina","Bedrijf":"Google","Land":"Finland","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"79"}
+,
+{"Datacenter / regio":"Changhua County","Bedrijf":"Google","Land":"Taiwan","PUE":"1.12","Carbon Intensity (gCO2/kWh)":"642"}
+,
+{"Datacenter / regio":"Singapore","Bedrijf":"Google","Land":"Singapore","PUE":"1.13","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Singapore (2nd facility)","Bedrijf":"Google","Land":"Singapore","PUE":"1.18","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Quilicura","Bedrijf":"Google","Land":"Chile","PUE":"1.1","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"US East (Ashburn) IAD","Bedrijf":"Oracle","Land":"United States","PUE":"1.34","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US Midwest (Chicago) ORD","Bedrijf":"Oracle","Land":"United States","PUE":"1.33","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US West (Phoenix) PHX","Bedrijf":"Oracle","Land":"United States","PUE":"1.37","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US West (Salt Lake City) AGA","Bedrijf":"Oracle","Land":"United States","PUE":"1.34","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US West (San Jose) SJC","Bedrijf":"Oracle","Land":"United States","PUE":"1.24","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Canada Southeast (Montreal) YUL","Bedrijf":"Oracle","Land":"Canada","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"Canada Southeast (Toronto) YYZ","Bedrijf":"Oracle","Land":"Canada","PUE":"1.35","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"US Gov East (Ashburn) LFI","Bedrijf":"Oracle","Land":"United States","PUE":"1.33","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US Gov East 2 (Sterling) DCA","Bedrijf":"Oracle","Land":"United States","PUE":"1.35","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US Gov East 3 (Sterling) HEF","Bedrijf":"Oracle","Land":"United States","PUE":"1.35","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US Gov South (Fort Worth) FTW","Bedrijf":"Oracle","Land":"United States","PUE":"2.26","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US Gov West (Salt Lake City) PVU","Bedrijf":"Oracle","Land":"United States","PUE":"1.39","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US Gov West 3 (Phoenix) GYR","Bedrijf":"Oracle","Land":"United States","PUE":"1.33","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US Gov West (Phoenix) LUF","Bedrijf":"Oracle","Land":"United States","PUE":"1.4","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US DoD East (Ashburn) RIC","Bedrijf":"Oracle","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US DoD North (Chicago) PIA","Bedrijf":"Oracle","Land":"United States","PUE":"1.4","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US DoD West (Phoenix) TUS","Bedrijf":"Oracle","Land":"United States","PUE":"1.4","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"US DoD West (Salt Lake City) OGD","Bedrijf":"Oracle","Land":"United States","PUE":"1.39","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Brazil East (Sao Paulo) GRU","Bedrijf":"Oracle","Land":"Brazil","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Brazil Southeast (Vinhedo) VCP","Bedrijf":"Oracle","Land":"Brazil","PUE":"1.74","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Chile (Santiago) SCL","Bedrijf":"Oracle","Land":"Chile","PUE":"1.47","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Chile West (Valparaiso) VAP","Bedrijf":"Oracle","Land":"Chile","PUE":"1.9","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Colombia Central (Bogota) BOG","Bedrijf":"Oracle","Land":"Colombia","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"260"}
+,
+{"Datacenter / regio":"Mexico Central (Queretaro) QRO","Bedrijf":"Oracle","Land":"Mexico","PUE":"1.31","Carbon Intensity (gCO2/kWh)":"507"}
+,
+{"Datacenter / regio":"France Central (Paris) CDG","Bedrijf":"Oracle","Land":"France","PUE":"1.3","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"France South (Marseille) MRS","Bedrijf":"Oracle","Land":"France","PUE":"1.12","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Germany Central (Frankfurt) FRA","Bedrijf":"Oracle","Land":"Germany","PUE":"1.3","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Italy Northwest (Milan) LIN","Bedrijf":"Oracle","Land":"Italy","PUE":"1.32","Carbon Intensity (gCO2/kWh)":"331"}
+,
+{"Datacenter / regio":"Netherlands Northwest (Amsterdam)","Bedrijf":"Oracle","Land":"Netherlands","PUE":"1.23","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Serbia Central (Jovanovac) BEG","Bedrijf":"Oracle","Land":"Serbia","PUE":"1.71","Carbon Intensity (gCO2/kWh)":"636"}
+,
+{"Datacenter / regio":"Spain Central (Madrid) MAD","Bedrijf":"Oracle","Land":"Spain","PUE":"1.35","Carbon Intensity (gCO2/kWh)":"174"}
+,
+{"Datacenter / regio":"Sweden Central (Stockholm) ARN","Bedrijf":"Oracle","Land":"Sweden","PUE":"1.48","Carbon Intensity (gCO2/kWh)":"41"}
+,
+{"Datacenter / regio":"Switzerland North (Zurich) ZRH","Bedrijf":"Oracle","Land":"Switzerland","PUE":"1.32","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"UK South (London) LHR","Bedrijf":"Oracle","Land":"United Kingdom","PUE":"1.36","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"UK West (Newport) CWL","Bedrijf":"Oracle","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"UK Gov South (London) LTN","Bedrijf":"Oracle","Land":"United Kingdom","PUE":"1.36","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"UK Gov West (Newport) BRS","Bedrijf":"Oracle","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Israel East (Jerusalem) MTZ","Bedrijf":"Oracle","Land":"Israel","PUE":"1.8","Carbon Intensity (gCO2/kWh)":"583"}
+,
+{"Datacenter / regio":"Saudi Arabia West (Jeddah) JED","Bedrijf":"Oracle","Land":"Saudi Arabia","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"707"}
+,
+{"Datacenter / regio":"Saudi Arabia Central (Riyadh) RUH","Bedrijf":"Oracle","Land":"Saudi Arabia","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"707"}
+,
+{"Datacenter / regio":"South Africa Central (Johannesburg) JNB","Bedrijf":"Oracle","Land":"South Africa","PUE":"1.45","Carbon Intensity (gCO2/kWh)":"708"}
+,
+{"Datacenter / regio":"UAE (Abu Dhabi) AUH","Bedrijf":"Oracle","Land":"United Arab Emirates","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"561"}
+,
+{"Datacenter / regio":"UAE East (Dubai) DBX","Bedrijf":"Oracle","Land":"United Arab Emirates","PUE":"1.54","Carbon Intensity (gCO2/kWh)":"561"}
+,
+{"Datacenter / regio":"Australia East (Sydney) SYD","Bedrijf":"Oracle","Land":"Australia","PUE":"1.3","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Australia Southeast (Melbourne) MEL","Bedrijf":"Oracle","Land":"Australia","PUE":"1.39","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"India South (Hyderabad) HYD","Bedrijf":"Oracle","Land":"India","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"713"}
+,
+{"Datacenter / regio":"India West (Mumbai) BOM","Bedrijf":"Oracle","Land":"India","PUE":"1.92","Carbon Intensity (gCO2/kWh)":"713"}
+,
+{"Datacenter / regio":"Japan Central (Osaka) KIX","Bedrijf":"Oracle","Land":"Japan","PUE":"1.38","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Japan East (Tokyo) NRT","Bedrijf":"Oracle","Land":"Japan","PUE":"1.38","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Singapore (Singapore) SIN","Bedrijf":"Oracle","Land":"Singapore","PUE":"1.41","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Singapore West (Singapore) XSP","Bedrijf":"Oracle","Land":"Singapore","PUE":"1.62","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"South Korea Central (Seoul) ICN","Bedrijf":"Oracle","Land":"South Korea","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"431"}
+,
+{"Datacenter / regio":"South Korea North (Chuncheon) YNY","Bedrijf":"Oracle","Land":"South Korea","PUE":"1.3","Carbon Intensity (gCO2/kWh)":"431"}
+,
+{"Datacenter / regio":"Europe (Stockholm)","Bedrijf":"AWS","Land":"Sweden","PUE":"1.12","Carbon Intensity (gCO2/kWh)":"41"}
+,
+{"Datacenter / regio":"Middle East (Bahrain)","Bedrijf":"AWS","Land":"Bahrain","PUE":"1.32","Carbon Intensity (gCO2/kWh)":"905"}
+,
+{"Datacenter / regio":"Asia-Pacific (Mumbai)","Bedrijf":"AWS","Land":"India","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"713"}
+,
+{"Datacenter / regio":"Asia-Pacific (Jakarta)","Bedrijf":"AWS","Land":"Indonesia","PUE":"1.35","Carbon Intensity (gCO2/kWh)":"676"}
+,
+{"Datacenter / regio":"U.S. East (Ohio)","Bedrijf":"AWS","Land":"United States","PUE":"1.12","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Africa (Cape Town)","Bedrijf":"AWS","Land":"South Africa","PUE":"1.24","Carbon Intensity (gCO2/kWh)":"708"}
+,
+{"Datacenter / regio":"Europe (Ireland)","Bedrijf":"AWS","Land":"Ireland","PUE":"1.1","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Middle East (UAE)","Bedrijf":"AWS","Land":"United Arab Emirates","PUE":"1.36","Carbon Intensity (gCO2/kWh)":"561"}
+,
+{"Datacenter / regio":"Europe (Frankfurt)","Bedrijf":"AWS","Land":"Germany","PUE":"1.33","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"South America (Sao Paulo)","Bedrijf":"AWS","Land":"Brazil","PUE":"1.18","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Asia-Pacific (Hyderabad)","Bedrijf":"AWS","Land":"India","PUE":"1.5","Carbon Intensity (gCO2/kWh)":"713"}
+,
+{"Datacenter / regio":"U.S. East (Northern Virginia)","Bedrijf":"AWS","Land":"United States","PUE":"1.15","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Asia-Pacific (Melbourne)","Bedrijf":"AWS","Land":"Australia","PUE":"1.08","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Asia-Pacific (Tokyo)","Bedrijf":"AWS","Land":"Japan","PUE":"1.32","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"U.S. West (Oregon)","Bedrijf":"AWS","Land":"United States","PUE":"1.13","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"U.S. West (Northern California)","Bedrijf":"AWS","Land":"United States","PUE":"1.17","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Asia-Pacific (Singapore)","Bedrijf":"AWS","Land":"Singapore","PUE":"1.3","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Asia-Pacific (Sydney)","Bedrijf":"AWS","Land":"Australia","PUE":"1.15","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Canada (Central)","Bedrijf":"AWS","Land":"Canada","PUE":"1.22","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"Europe (Spain)","Bedrijf":"AWS","Land":"Spain","PUE":"1.11","Carbon Intensity (gCO2/kWh)":"174"}
+,
+{"Datacenter / regio":"China (Ningxia)","Bedrijf":"AWS","Land":"China","PUE":"1.26","Carbon Intensity (gCO2/kWh)":"582"}
+,
+{"Datacenter / regio":"Altoona","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Clonee","Bedrijf":"Meta","Land":"Ireland","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"DeKalb","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Esbjerg","Bedrijf":"Meta","Land":"Denmark","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"152"}
+,
+{"Datacenter / regio":"Fort Worth","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Henrico","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Huntsville","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Indonesia","Bedrijf":"Meta","Land":"Indonesia","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"676"}
+,
+{"Datacenter / regio":"Los Lunas","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Lulea 1","Bedrijf":"Meta","Land":"Sweden","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"41"}
+,
+{"Datacenter / regio":"Lulea 2","Bedrijf":"Meta","Land":"Sweden","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"41"}
+,
+{"Datacenter / regio":"Meath","Bedrijf":"Meta","Land":"Ireland","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"New Albany","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Odense","Bedrijf":"Meta","Land":"Denmark","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"152"}
+,
+{"Datacenter / regio":"Papillion","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Prineville","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Prineville 3","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Rutherford","Bedrijf":"Meta","Land":"United States","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Zeewolde","Bedrijf":"Meta","Land":"Netherlands","PUE":"1.09","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"151 Front Street","Bedrijf":"IBM","Land":"Canada","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"Almere","Bedrijf":"IBM","Land":"Netherlands","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Amsterdam","Bedrijf":"IBM","Land":"Netherlands","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Bogota","Bedrijf":"IBM","Land":"Colombia","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"260"}
+,
+{"Datacenter / regio":"Building 045","Bedrijf":"IBM","Land":"United States","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Cornaredo","Bedrijf":"IBM","Land":"Italy","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"331"}
+,
+{"Datacenter / regio":"Guadalajara","Bedrijf":"IBM","Land":"Mexico","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"507"}
+,
+{"Datacenter / regio":"Hong Kong","Bedrijf":"IBM","Land":"China","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"582"}
+,
+{"Datacenter / regio":"Istanbul","Bedrijf":"IBM","Land":"Turkey","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"465"}
+,
+{"Datacenter / regio":"Kelsterbach (Am Weiher)","Bedrijf":"IBM","Land":"Germany","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Langfang City","Bedrijf":"IBM","Land":"China","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"582"}
+,
+{"Datacenter / regio":"Lima","Bedrijf":"IBM","Land":"Peru","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"266"}
+,
+{"Datacenter / regio":"London","Bedrijf":"IBM","Land":"United Kingdom","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Markham","Bedrijf":"IBM","Land":"Canada","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"Montreal","Bedrijf":"IBM","Land":"Canada","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"Mumbai","Bedrijf":"IBM","Land":"India","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"713"}
+,
+{"Datacenter / regio":"Paris","Bedrijf":"IBM","Land":"France","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Quer├â┬®taro","Bedrijf":"IBM","Land":"Mexico","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"507"}
+,
+{"Datacenter / regio":"Richard-Neutra-G 10 Wien","Bedrijf":"IBM","Land":"Austria","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"111"}
+,
+{"Datacenter / regio":"Sao Paulo","Bedrijf":"IBM","Land":"Brazil","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Seoul","Bedrijf":"IBM","Land":"South Korea","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"431"}
+,
+{"Datacenter / regio":"Singapore","Bedrijf":"IBM","Land":"Singapore","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Sydney","Bedrijf":"IBM","Land":"Australia","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"The Planet 1700 Summit","Bedrijf":"IBM","Land":"United States","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"The Planet 855 Greens Pkwy","Bedrijf":"IBM","Land":"United States","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"The Planet Dallas","Bedrijf":"IBM","Land":"United States","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"The Planet Houston","Bedrijf":"IBM","Land":"United States","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Tokyo","Bedrijf":"IBM","Land":"Japan","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Wuxi","Bedrijf":"IBM","Land":"China","PUE":"1.46","Carbon Intensity (gCO2/kWh)":"582"}
+,
+{"Datacenter / regio":"Amsterdam (J.W. Lucasweg)","Bedrijf":"Iron Mountain","Land":"Netherlands","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Columbus","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Denver","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Kansas City","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"London","Bedrijf":"Iron Mountain","Land":"United Kingdom","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"New Jersey","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Northborough","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Phoenix","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Scottsdale","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Singapore","Bedrijf":"Iron Mountain","Land":"Singapore","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Virginia","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington DC (Hornbaker Road)","Bedrijf":"Iron Mountain","Land":"United States","PUE":"1.44","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"111 8th Avenue","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Atlanta 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Atlanta 4","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Atlanta 5","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Barcelona","Bedrijf":"Equinix","Land":"Spain","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"174"}
+,
+{"Datacenter / regio":"Bogota","Bedrijf":"Equinix","Land":"Colombia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"260"}
+,
+{"Datacenter / regio":"Boston 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Boston 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Chicago 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Chicago 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Chicago 3","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Chicago 4","Bedrijf":"Equinix","Land":"Australia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Culpeper 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Culpeper 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Culpeper 3","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Culpeper 4","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Dallas 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Dallas 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Dallas 3","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Dallas 6","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Dallas 9","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Denver","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Denver 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Dubai","Bedrijf":"Equinix","Land":"United Arab Emirates","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"561"}
+,
+{"Datacenter / regio":"Dublin 1","Bedrijf":"Equinix","Land":"Ireland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Dublin 2","Bedrijf":"Equinix","Land":"Ireland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Dublin 3","Bedrijf":"Equinix","Land":"Ireland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Dublin 4","Bedrijf":"Equinix","Land":"Ireland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Dusseldorf 1","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Elmsford","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Equinix AM2","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Equinix AM3","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Equinix AM4","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Equinix AM5","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Equinix AM6","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Equinix AM7","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Equinix EN1","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Equinix ZW1","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Equinix AM1","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Frankfurt 1","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Frankfurt 2","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Frankfurt 3","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Frankfurt 4","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Frankfurt 5","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Frankfurt 6","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Frankfurt 7","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Geneva 1","Bedrijf":"Equinix","Land":"Switzerland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"Geneva 2","Bedrijf":"Equinix","Land":"Switzerland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"Helsinki","Bedrijf":"Equinix","Land":"Finland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"79"}
+,
+{"Datacenter / regio":"Helsinki 1","Bedrijf":"Equinix","Land":"Finland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"79"}
+,
+{"Datacenter / regio":"Helsinki 2","Bedrijf":"Equinix","Land":"Finland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"79"}
+,
+{"Datacenter / regio":"Helsinki 3","Bedrijf":"Equinix","Land":"Finland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"79"}
+,
+{"Datacenter / regio":"Helsinki 4","Bedrijf":"Equinix","Land":"Finland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"79"}
+,
+{"Datacenter / regio":"Helsinki 5","Bedrijf":"Equinix","Land":"Finland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"79"}
+,
+{"Datacenter / regio":"Helsinki 6","Bedrijf":"Equinix","Land":"Finland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"79"}
+,
+{"Datacenter / regio":"Hong Kong 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Hong Kong 2","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Houston 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Infomart Dallas","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Istanbul 2","Bedrijf":"Equinix","Land":"Turkey","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"465"}
+,
+{"Datacenter / regio":"Jakarta","Bedrijf":"Equinix","Land":"Indonesia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"676"}
+,
+{"Datacenter / regio":"London 1","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"London 10","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"London 3","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"London 4","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"London 5","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"London 6","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"London 8","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"London 9","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Los Angeles 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Los Angeles 3","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Los Angeles 4","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Los Angeles 7","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Madrid 1 (Calle Valgrande)","Bedrijf":"Equinix","Land":"Spain","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"174"}
+,
+{"Datacenter / regio":"Madrid 2 (Isabel Colbrand)","Bedrijf":"Equinix","Land":"Spain","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"174"}
+,
+{"Datacenter / regio":"Manassas","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Manchester 1","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Manchester 3","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Manchester 4","Bedrijf":"Equinix","Land":"United Kingdom","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Melbourne","Bedrijf":"Equinix","Land":"Australia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Miami 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Miami 3","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Milan 2","Bedrijf":"Equinix","Land":"Italy","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"331"}
+,
+{"Datacenter / regio":"Milan 3","Bedrijf":"Equinix","Land":"Italy","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"331"}
+,
+{"Datacenter / regio":"Milan 4","Bedrijf":"Equinix","Land":"Italy","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"331"}
+,
+{"Datacenter / regio":"Munich 1","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Munich 2","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Munich 3","Bedrijf":"Equinix","Land":"Germany","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"New York 11","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"New York 12","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"New York 13","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"New York 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"New York 4","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"New York 5","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"New York 6","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"New York 7","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Osaka","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Paris 1","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Paris 2","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Paris 3","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Paris 4","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Paris 5","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Paris 6","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Paris 7","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Portugal","Bedrijf":"Equinix","Land":"Portugal","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"166"}
+,
+{"Datacenter / regio":"Rio de Janeiro","Bedrijf":"Equinix","Land":"Brazil","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Rio de Janeiro 2","Bedrijf":"Equinix","Land":"Brazil","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Sao Paulo","Bedrijf":"Equinix","Land":"Brazil","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Sao Paulo 2","Bedrijf":"Equinix","Land":"Brazil","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Sao Paulo 3","Bedrijf":"Equinix","Land":"Brazil","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Sao Paulo 4","Bedrijf":"Equinix","Land":"Brazil","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Seattle","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Seattle 2 (Fifth Avenue)","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Seattle 3","Bedrijf":"Equinix","Land":"Australia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Seattle 4","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Sevilla","Bedrijf":"Equinix","Land":"Spain","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"174"}
+,
+{"Datacenter / regio":"Shanghai 2","Bedrijf":"Equinix","Land":"Italy","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"331"}
+,
+{"Datacenter / regio":"Shanghai 3","Bedrijf":"Equinix","Land":"China","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"582"}
+,
+{"Datacenter / regio":"Shanghai 5","Bedrijf":"Equinix","Land":"China","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"582"}
+,
+{"Datacenter / regio":"Silicon Valley 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 10","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 13","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 14","Bedrijf":"Equinix","Land":"France","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"56"}
+,
+{"Datacenter / regio":"Silicon Valley 15","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 16","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 17","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 3","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 4","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 5","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 6","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Silicon Valley 8","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Singapore 1","Bedrijf":"Equinix","Land":"Singapore","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Singapore 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Singapore 3","Bedrijf":"Equinix","Land":"Singapore","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"Sofia","Bedrijf":"Equinix","Land":"Bulgaria","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"335"}
+,
+{"Datacenter / regio":"Stockholm 1","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Stockholm 2","Bedrijf":"Equinix","Land":"Sweden","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"41"}
+,
+{"Datacenter / regio":"Stockholm 3","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Sydney 1","Bedrijf":"Equinix","Land":"Australia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Sydney 2","Bedrijf":"Equinix","Land":"Australia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Sydney 3","Bedrijf":"Equinix","Land":"Australia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Sydney 4","Bedrijf":"Equinix","Land":"Australia","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Tokyo 1","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 10","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 11","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 2","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 3","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 4","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 5","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 6","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 7","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 8","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Tokyo 9","Bedrijf":"Equinix","Land":"Japan","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Toronto","Bedrijf":"Equinix","Land":"Canada","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"Toronto 2","Bedrijf":"Equinix","Land":"Canada","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"Warsaw 1","Bedrijf":"Equinix","Land":"Poland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"662"}
+,
+{"Datacenter / regio":"Warsaw 2","Bedrijf":"Equinix","Land":"Poland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"662"}
+,
+{"Datacenter / regio":"Washington 1","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington 11","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Washington 12","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington 13","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Washington 14","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington 2","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington 4","Bedrijf":"Equinix","Land":"Netherlands","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Washington 5","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington 6","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington 7","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Washington 8","Bedrijf":"Equinix","Land":"United States","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Zurich 1","Bedrijf":"Equinix","Land":"Switzerland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"Zurich 2","Bedrijf":"Equinix","Land":"Switzerland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"Zurich 3","Bedrijf":"Equinix","Land":"Switzerland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"Zurich 4","Bedrijf":"Equinix","Land":"Switzerland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"Zurich 5","Bedrijf":"Equinix","Land":"Switzerland","PUE":"1.42","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"St. Leon-Rot","Bedrijf":"SAP","Land":"Germany","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Osaka","Bedrijf":"SAP","Land":"Japan","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Public Cloud Data Centre","Bedrijf":"SAP","Land":"Saudi Arabia","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"707"}
+,
+{"Datacenter / regio":"Sydney","Bedrijf":"SAP","Land":"Australia","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"S├â┬úo Paulo","Bedrijf":"SAP","Land":"Brazil","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"98"}
+,
+{"Datacenter / regio":"Tokyo","Bedrijf":"SAP","Land":"Japan","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"485"}
+,
+{"Datacenter / regio":"Toronto","Bedrijf":"SAP","Land":"Canada","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"Vedomosti","Bedrijf":"SAP","Land":"Belarus","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"442"}
+,
+{"Datacenter / regio":"1 Century Place","Bedrijf":"Digital Realty","Land":"Canada","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"1 Foxboro Rd","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1-21 Templar Road","Bedrijf":"Digital Realty","Land":"Australia","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"100 Delawanna Avenue","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"101 Aquila Way","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"105 Cabot St.","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1100 Space Park Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"111 8th Avenue","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1125 Energy Park Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"113 N Myers","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"115 Second Avenue","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"11830 Webb Chapel Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"11900 E Cornell Ave","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"120 E. Van Buren","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"12001-12245 North Freeway","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1201 Comstock","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1210 Integrity Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1215 Integrity Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1232 Alma Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"125 North Myers Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"128 First Ave","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"1350 Duane Avenue","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1420 E Devon Ave","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"150 South First Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1500 Space Park Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1500 Towerview Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1506 Moran Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1525 Comstock Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"17201 Waterview Pkwy","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1725 Comstock Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1780 Business Center Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"1900 S. Price Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2 Foxboro Rd","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2 Peekay Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"200 North Nash Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"200 Paul Avenue 1-4","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2001 Sixth Avenue","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2010 East Centennial Circle","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2045 & 2055 LaFayette Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2055 E Technology Circle","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"21110 Ridgetop Circle","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2121 S. Price Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"215 Marsh Wall","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"21551 Beaumeade Cir","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"21561-21571 Beaumeade Cir","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"21625 Gresham Drive","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"21745 Sir Timothy Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2200 Busse Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2220 De La Cruz Boulevard","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2260 East El Segundo Blvd","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"227 Marsh Wall","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"2299 Busse Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2300 NW 89th Pl","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2323 Bryan Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2334 Lundy Place","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2401 Walsh Street","Bedrijf":"Digital Realty","Land":"Australia","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"2403 Walsh Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2440 Marsh Lane","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"250 Williams Street NW","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2501 S State Highway 121","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2805 Lafayette Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"2820 Northwestern Parkway","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"29A International Parkway","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3 Corporate Place","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3 Foxboro Park","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3 Loyang Way","Bedrijf":"Digital Realty","Land":"Singapore","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"471"}
+,
+{"Datacenter / regio":"300 JFK Boulevard East","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3011 Lafayette Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3015 Winona Avenue","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3080 Raymond Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3105 Alfred Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"32 Avenue of the Americas","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3205 Alfred Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"33 Chun Choi Street","Bedrijf":"Digital Realty","Land":"China","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"582"}
+,
+{"Datacenter / regio":"3433 S. 120th Place","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"350 E Cermak Rd. Chicago","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"36 NE 2nd St","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"360 Spear Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"365 Main Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"365 S Randolphville","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"371 Gough Road","Bedrijf":"Digital Realty","Land":"Canada","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"170"}
+,
+{"Datacenter / regio":"375 Riverside Parkway","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"3825 NW Aloclek Place","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"400 S Akard Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"4025 Midway Rd","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"4030 Lafayette Center Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"4040 Lafayette Center","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"4050 Lafayette Center Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"43790 Devin Shafron Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"43791 Devin Shafron Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"43830 Devin Shafron Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"43881 Devin Shafron Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"43915 Devin Shafron Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"43940 Digital Loudoun Plaza","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"44060 Digital Loudoun Plaza","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"44100 Digital Loudoun Plaza","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"44461 Chilum Place","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"44470 Chillum Place","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"44480 Hastings Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"44480 Hastings Road","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"44490 Chilum Place","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"44520 Hastings Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"45901 Nokes Blvd","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"47 Milharbour","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"4849 Alpha Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"505 N Railroad Ave","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"55 Middlesex Turnpike","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"55-71 City Rd","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"56 Marietta Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"60 Hudson Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"600 Winter St","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"600-780 South Federal","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"6800 Mill Creek Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"717 Leonard Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"72 Radnor Drive","Bedrijf":"Digital Realty","Land":"Australia","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"720 Second Street","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"731 E Trade St","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"7401 E. Ben White Boulevard","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"7500 Metro Center Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"7505 Mason King Court","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"760 Doug Davis Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"7620 Metro Center Drive","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"80 Merritt Blvd","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"8100 Boone Boulevard","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"8217 Linton Hall Road","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"8435 N. Stemmons Freeway","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"850 E. Collins Blvd","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"8534 Concord Center Dr","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"900 Quality Way","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"904 Quality Way","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"907 Security Row","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"908 Quality Way","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"950 E. Collins Blvd","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"98 Radnor Drive","Bedrijf":"Digital Realty","Land":"Australia","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"549"}
+,
+{"Datacenter / regio":"Accra","Bedrijf":"Digital Realty","Land":"Ghana","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"484"}
+,
+{"Datacenter / regio":"Amstel Business Park","Bedrijf":"Digital Realty","Land":"Netherlands","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Amsterdam Science Park 120","Bedrijf":"Digital Realty","Land":"Netherlands","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Blanchardstown Corp Park","Bedrijf":"Digital Realty","Land":"Ireland","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Bonnington House","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Carrier Center Los Angeles","Bedrijf":"Digital Realty","Land":"United States","PUE":"1.56","Carbon Intensity (gCO2/kWh)":"369"}
+,
+{"Datacenter / regio":"Cateringweg 5","Bedrijf":"Digital Realty","Land":"Netherlands","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Chemin de l'Epinglier 2","Bedrijf":"Digital Realty","Land":"Switzerland","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"35"}
+,
+{"Datacenter / regio":"Clonshaugh Industrial Estate","Bedrijf":"Digital Realty","Land":"Ireland","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"De President Business Park","Bedrijf":"Digital Realty","Land":"Netherlands","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Gyroscoopweg 2E-2F","Bedrijf":"Digital Realty","Land":"Netherlands","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Liverpoolweg 10","Bedrijf":"Digital Realty","Land":"Netherlands","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Lyoner Strasse 28","Bedrijf":"Digital Realty","Land":"Germany","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"381"}
+,
+{"Datacenter / regio":"Manchester Technopark","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Mundells Roundabout","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Naritaweg 52","Bedrijf":"Digital Realty","Land":"Netherlands","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Paul van Vlissingenstraat 16","Bedrijf":"Digital Realty","Land":"Netherlands","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"268"}
+,
+{"Datacenter / regio":"Profile Park","Bedrijf":"Digital Realty","Land":"Ireland","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"291"}
+,
+{"Datacenter / regio":"Unit 1 Airport Gate Bath Rd","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Watford","Bedrijf":"Digital Realty","Land":"United Kingdom","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"238"}
+,
+{"Datacenter / regio":"Wilhelm Fay Strasse","Bedrijf":"Digital Realty","Land":"Germany","PUE":"1.6","Carbon Intensity (gCO2/kWh)":"381"}
+
+]

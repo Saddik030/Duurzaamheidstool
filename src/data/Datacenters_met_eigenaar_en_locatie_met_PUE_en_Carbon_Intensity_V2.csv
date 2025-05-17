@@ -1,0 +1,509 @@
+Datacenter / regio;Bedrijf;Land;PUE;Carbon Intensity (gCO2/kWh)
+Arizona;Microsoft;United States;1.18;369
+Illinois;Microsoft;United States;1.35;369
+Iowa;Microsoft;United States;1.16;369
+Texas;Microsoft;United States;1.28;369
+Virginia;Microsoft;United States;1.14;369
+Washington;Microsoft;United States;1.15;369
+Wyoming;Microsoft;United States;1.11;369
+Singapore;Microsoft;Singapore;1.34;471
+Ireland;Microsoft;Ireland;1.19;291
+Netherlands;Microsoft;Netherlands;1.14;268
+Sweden;Microsoft;Sweden;1.16;41
+Douglas County;Google;United States;1.09;369
+Lenoir;Google;United States;1.1;369
+Berkeley County;Google;United States;1.1;369
+Montgomery County;Google;United States;1.1;369
+Jackson County;Google;United States;1.1;369
+Loudoun County;Google;United States;1.09;369
+Loudoun County (2nd facility);Google;United States;1.08;369
+New Albany;Google;United States;1.09;369
+Council Bluffs;Google;United States;1.12;369
+Council Bluffs (2nd facility);Google;United States;1.08;369
+Papillion;Google;United States;1.09;369
+Mayes County;Google;United States;1.1;369
+Midlothian;Google;United States;1.12;369
+The Dalles;Google;United States;1.1;369
+The Dalles (2nd facility);Google;United States;1.07;369
+Henderson;Google;United States;1.08;369
+Storey County;Google;United States;1.17;369
+Dublin;Google;Ireland;1.08;291
+St. Ghislain;Google;Belgium;1.09;138
+Eemshaven;Google;Netherlands;1.07;268
+Fredericia;Google;Denmark;1.09;152
+Hamina;Google;Finland;1.09;79
+Changhua County;Google;Taiwan;1.12;642
+Singapore;Google;Singapore;1.13;471
+Singapore (2nd facility);Google;Singapore;1.18;471
+Quilicura;Google;Chile;1.1;291
+US East (Ashburn) IAD;Oracle;United States;1.34;369
+US Midwest (Chicago) ORD;Oracle;United States;1.33;369
+US West (Phoenix) PHX;Oracle;United States;1.37;369
+US West (Salt Lake City) AGA;Oracle;United States;1.34;369
+US West (San Jose) SJC;Oracle;United States;1.24;369
+Canada Southeast (Montreal) YUL;Oracle;Canada;1.46;170
+Canada Southeast (Toronto) YYZ;Oracle;Canada;1.35;170
+US Gov East (Ashburn) LFI;Oracle;United States;1.33;369
+US Gov East 2 (Sterling) DCA;Oracle;United States;1.35;369
+US Gov East 3 (Sterling) HEF;Oracle;United States;1.35;369
+US Gov South (Fort Worth) FTW;Oracle;United States;2.26;369
+US Gov West (Salt Lake City) PVU;Oracle;United States;1.39;369
+US Gov West 3 (Phoenix) GYR;Oracle;United States;1.33;369
+US Gov West (Phoenix) LUF;Oracle;United States;1.4;369
+US DoD East (Ashburn) RIC;Oracle;United States;1.42;369
+US DoD North (Chicago) PIA;Oracle;United States;1.4;369
+US DoD West (Phoenix) TUS;Oracle;United States;1.4;369
+US DoD West (Salt Lake City) OGD;Oracle;United States;1.39;369
+Brazil East (Sao Paulo) GRU;Oracle;Brazil;1.6;98
+Brazil Southeast (Vinhedo) VCP;Oracle;Brazil;1.74;98
+Chile (Santiago) SCL;Oracle;Chile;1.47;291
+Chile West (Valparaiso) VAP;Oracle;Chile;1.9;291
+Colombia Central (Bogota) BOG;Oracle;Colombia;1.6;260
+Mexico Central (Queretaro) QRO;Oracle;Mexico;1.31;507
+France Central (Paris) CDG;Oracle;France;1.3;56
+France South (Marseille) MRS;Oracle;France;1.12;56
+Germany Central (Frankfurt) FRA;Oracle;Germany;1.3;381
+Italy Northwest (Milan) LIN;Oracle;Italy;1.32;331
+Netherlands Northwest (Amsterdam);Oracle;Netherlands;1.23;268
+Serbia Central (Jovanovac) BEG;Oracle;Serbia;1.71;636
+Spain Central (Madrid) MAD;Oracle;Spain;1.35;174
+Sweden Central (Stockholm) ARN;Oracle;Sweden;1.48;41
+Switzerland North (Zurich) ZRH;Oracle;Switzerland;1.32;35
+UK South (London) LHR;Oracle;United Kingdom;1.36;238
+UK West (Newport) CWL;Oracle;United Kingdom;1.6;238
+UK Gov South (London) LTN;Oracle;United Kingdom;1.36;238
+UK Gov West (Newport) BRS;Oracle;United Kingdom;1.6;238
+Israel East (Jerusalem) MTZ;Oracle;Israel;1.8;583
+Saudi Arabia West (Jeddah) JED;Oracle;Saudi Arabia;1.56;707
+Saudi Arabia Central (Riyadh) RUH;Oracle;Saudi Arabia;1.56;707
+South Africa Central (Johannesburg) JNB;Oracle;South Africa;1.45;708
+UAE (Abu Dhabi) AUH;Oracle;United Arab Emirates;1.56;561
+UAE East (Dubai) DBX;Oracle;United Arab Emirates;1.54;561
+Australia East (Sydney) SYD;Oracle;Australia;1.3;549
+Australia Southeast (Melbourne) MEL;Oracle;Australia;1.39;549
+India South (Hyderabad) HYD;Oracle;India;1.6;713
+India West (Mumbai) BOM;Oracle;India;1.92;713
+Japan Central (Osaka) KIX;Oracle;Japan;1.38;485
+Japan East (Tokyo) NRT;Oracle;Japan;1.38;485
+Singapore (Singapore) SIN;Oracle;Singapore;1.41;471
+Singapore West (Singapore) XSP;Oracle;Singapore;1.62;471
+South Korea Central (Seoul) ICN;Oracle;South Korea;1.6;431
+South Korea North (Chuncheon) YNY;Oracle;South Korea;1.3;431
+Europe (Stockholm);AWS;Sweden;1.12;41
+Middle East (Bahrain);AWS;Bahrain;1.32;905
+Asia-Pacific (Mumbai);AWS;India;1.44;713
+Asia-Pacific (Jakarta);AWS;Indonesia;1.35;676
+U.S. East (Ohio);AWS;United States;1.12;369
+Africa (Cape Town);AWS;South Africa;1.24;708
+Europe (Ireland);AWS;Ireland;1.1;291
+Middle East (UAE);AWS;United Arab Emirates;1.36;561
+Europe (Frankfurt);AWS;Germany;1.33;381
+South America (Sao Paulo);AWS;Brazil;1.18;98
+Asia-Pacific (Hyderabad);AWS;India;1.5;713
+U.S. East (Northern Virginia);AWS;United States;1.15;369
+Asia-Pacific (Melbourne);AWS;Australia;1.08;549
+Asia-Pacific (Tokyo);AWS;Japan;1.32;485
+U.S. West (Oregon);AWS;United States;1.13;369
+U.S. West (Northern California);AWS;United States;1.17;369
+Asia-Pacific (Singapore);AWS;Singapore;1.3;471
+Asia-Pacific (Sydney);AWS;Australia;1.15;549
+Canada (Central);AWS;Canada;1.22;170
+Europe (Spain);AWS;Spain;1.11;174
+China (Ningxia);AWS;China;1.26;582
+Altoona;Meta;United States;1.09;369
+Clonee;Meta;Ireland;1.09;291
+DeKalb;Meta;United States;1.09;369
+Esbjerg;Meta;Denmark;1.09;152
+Fort Worth;Meta;United States;1.09;369
+Henrico;Meta;United States;1.09;369
+Huntsville;Meta;United States;1.09;369
+Indonesia;Meta;Indonesia;1.09;676
+Los Lunas;Meta;United States;1.09;369
+Lulea 1;Meta;Sweden;1.09;41
+Lulea 2;Meta;Sweden;1.09;41
+Meath;Meta;Ireland;1.09;291
+New Albany;Meta;United States;1.09;369
+Odense;Meta;Denmark;1.09;152
+Papillion;Meta;United States;1.09;369
+Prineville;Meta;United States;1.09;369
+Prineville 3;Meta;United States;1.09;369
+Rutherford;Meta;United States;1.09;369
+Zeewolde;Meta;Netherlands;1.09;268
+151 Front Street;IBM;Canada;1.46;170
+Almere;IBM;Netherlands;1.46;268
+Amsterdam;IBM;Netherlands;1.46;268
+Bogota;IBM;Colombia;1.46;260
+Building 045;IBM;United States;1.46;369
+Cornaredo;IBM;Italy;1.46;331
+Guadalajara;IBM;Mexico;1.46;507
+Hong Kong;IBM;China;1.46;582
+Istanbul;IBM;Turkey;1.46;465
+Kelsterbach (Am Weiher);IBM;Germany;1.46;381
+Langfang City;IBM;China;1.46;582
+Lima;IBM;Peru;1.46;266
+London;IBM;United Kingdom;1.46;238
+Markham;IBM;Canada;1.46;170
+Montreal;IBM;Canada;1.46;170
+Mumbai;IBM;India;1.46;713
+Paris;IBM;France;1.46;56
+QuerÃ©taro;IBM;Mexico;1.46;507
+Richard-Neutra-G 10 Wien;IBM;Austria;1.46;111
+Sao Paulo;IBM;Brazil;1.46;98
+Seoul;IBM;South Korea;1.46;431
+Singapore;IBM;Singapore;1.46;471
+Sydney;IBM;Australia;1.46;549
+The Planet 1700 Summit;IBM;United States;1.46;369
+The Planet 855 Greens Pkwy;IBM;United States;1.46;369
+The Planet Dallas;IBM;United States;1.46;369
+The Planet Houston;IBM;United States;1.46;369
+Tokyo;IBM;Japan;1.46;485
+Wuxi;IBM;China;1.46;582
+Amsterdam (J.W. Lucasweg);Iron Mountain;Netherlands;1.44;268
+Columbus;Iron Mountain;United States;1.44;369
+Denver;Iron Mountain;United States;1.44;369
+Kansas City;Iron Mountain;United States;1.44;369
+London;Iron Mountain;United Kingdom;1.44;238
+New Jersey;Iron Mountain;United States;1.44;369
+Northborough;Iron Mountain;United States;1.44;369
+Phoenix;Iron Mountain;United States;1.44;369
+Scottsdale;Iron Mountain;United States;1.44;369
+Singapore;Iron Mountain;Singapore;1.44;471
+Virginia;Iron Mountain;United States;1.44;369
+Washington DC (Hornbaker Road);Iron Mountain;United States;1.44;369
+111 8th Avenue;Equinix;United States;1.42;369
+Atlanta 1;Equinix;United States;1.42;369
+Atlanta 4;Equinix;United States;1.42;369
+Atlanta 5;Equinix;United States;1.42;369
+Barcelona;Equinix;Spain;1.42;174
+Bogota;Equinix;Colombia;1.42;260
+Boston 1;Equinix;United States;1.42;369
+Boston 2;Equinix;United States;1.42;369
+Chicago 1;Equinix;United States;1.42;369
+Chicago 2;Equinix;United States;1.42;369
+Chicago 3;Equinix;United States;1.42;369
+Chicago 4;Equinix;Australia;1.42;549
+Culpeper 1;Equinix;United States;1.42;369
+Culpeper 2;Equinix;United States;1.42;369
+Culpeper 3;Equinix;United States;1.42;369
+Culpeper 4;Equinix;United States;1.42;369
+Dallas 1;Equinix;United States;1.42;369
+Dallas 2;Equinix;United States;1.42;369
+Dallas 3;Equinix;United States;1.42;369
+Dallas 6;Equinix;United States;1.42;369
+Dallas 9;Equinix;United States;1.42;369
+Denver;Equinix;United States;1.42;369
+Denver 2;Equinix;United States;1.42;369
+Dubai;Equinix;United Arab Emirates;1.42;561
+Dublin 1;Equinix;Ireland;1.42;291
+Dublin 2;Equinix;Ireland;1.42;291
+Dublin 3;Equinix;Ireland;1.42;291
+Dublin 4;Equinix;Ireland;1.42;291
+Dusseldorf 1;Equinix;Germany;1.42;381
+Elmsford;Equinix;United States;1.42;369
+Equinix AM2;Equinix;Netherlands;1.42;268
+Equinix AM3;Equinix;Netherlands;1.42;268
+Equinix AM4;Equinix;Netherlands;1.42;268
+Equinix AM5;Equinix;Netherlands;1.42;268
+Equinix AM6;Equinix;Netherlands;1.42;268
+Equinix AM7;Equinix;Netherlands;1.42;268
+Equinix EN1;Equinix;France;1.42;56
+Equinix ZW1;Equinix;Netherlands;1.42;268
+Equinix AM1;Equinix;Netherlands;1.42;268
+Frankfurt 1;Equinix;Germany;1.42;381
+Frankfurt 2;Equinix;Germany;1.42;381
+Frankfurt 3;Equinix;Germany;1.42;381
+Frankfurt 4;Equinix;Germany;1.42;381
+Frankfurt 5;Equinix;Germany;1.42;381
+Frankfurt 6;Equinix;Germany;1.42;381
+Frankfurt 7;Equinix;Germany;1.42;381
+Geneva 1;Equinix;Switzerland;1.42;35
+Geneva 2;Equinix;Switzerland;1.42;35
+Helsinki;Equinix;Finland;1.42;79
+Helsinki 1;Equinix;Finland;1.42;79
+Helsinki 2;Equinix;Finland;1.42;79
+Helsinki 3;Equinix;Finland;1.42;79
+Helsinki 4;Equinix;Finland;1.42;79
+Helsinki 5;Equinix;Finland;1.42;79
+Helsinki 6;Equinix;Finland;1.42;79
+Hong Kong 1;Equinix;United States;1.42;369
+Hong Kong 2;Equinix;France;1.42;56
+Houston 1;Equinix;United States;1.42;369
+Infomart Dallas;Equinix;United States;1.42;369
+Istanbul 2;Equinix;Turkey;1.42;465
+Jakarta;Equinix;Indonesia;1.42;676
+London 1;Equinix;United Kingdom;1.42;238
+London 10;Equinix;United Kingdom;1.42;238
+London 3;Equinix;United Kingdom;1.42;238
+London 4;Equinix;United Kingdom;1.42;238
+London 5;Equinix;United Kingdom;1.42;238
+London 6;Equinix;United Kingdom;1.42;238
+London 8;Equinix;United Kingdom;1.42;238
+London 9;Equinix;United Kingdom;1.42;238
+Los Angeles 2;Equinix;United States;1.42;369
+Los Angeles 3;Equinix;United States;1.42;369
+Los Angeles 4;Equinix;United States;1.42;369
+Los Angeles 7;Equinix;United States;1.42;369
+Madrid 1 (Calle Valgrande);Equinix;Spain;1.42;174
+Madrid 2 (Isabel Colbrand);Equinix;Spain;1.42;174
+Manassas;Equinix;United States;1.42;369
+Manchester 1;Equinix;United Kingdom;1.42;238
+Manchester 3;Equinix;United Kingdom;1.42;238
+Manchester 4;Equinix;United Kingdom;1.42;238
+Melbourne;Equinix;Australia;1.42;549
+Miami 1;Equinix;United States;1.42;369
+Miami 3;Equinix;United States;1.42;369
+Milan 2;Equinix;Italy;1.42;331
+Milan 3;Equinix;Italy;1.42;331
+Milan 4;Equinix;Italy;1.42;331
+Munich 1;Equinix;Germany;1.42;381
+Munich 2;Equinix;Germany;1.42;381
+Munich 3;Equinix;Germany;1.42;381
+New York 11;Equinix;United States;1.42;369
+New York 12;Equinix;United States;1.42;369
+New York 13;Equinix;United States;1.42;369
+New York 2;Equinix;United States;1.42;369
+New York 4;Equinix;United States;1.42;369
+New York 5;Equinix;United States;1.42;369
+New York 6;Equinix;United States;1.42;369
+New York 7;Equinix;United States;1.42;369
+Osaka;Equinix;Japan;1.42;485
+Paris 1;Equinix;France;1.42;56
+Paris 2;Equinix;France;1.42;56
+Paris 3;Equinix;France;1.42;56
+Paris 4;Equinix;France;1.42;56
+Paris 5;Equinix;France;1.42;56
+Paris 6;Equinix;France;1.42;56
+Paris 7;Equinix;France;1.42;56
+Portugal;Equinix;Portugal;1.42;166
+Rio de Janeiro;Equinix;Brazil;1.42;98
+Rio de Janeiro 2;Equinix;Brazil;1.42;98
+Sao Paulo;Equinix;Brazil;1.42;98
+Sao Paulo 2;Equinix;Brazil;1.42;98
+Sao Paulo 3;Equinix;Brazil;1.42;98
+Sao Paulo 4;Equinix;Brazil;1.42;98
+Seattle;Equinix;United States;1.42;369
+Seattle 2 (Fifth Avenue);Equinix;United States;1.42;369
+Seattle 3;Equinix;Australia;1.42;549
+Seattle 4;Equinix;United States;1.42;369
+Sevilla;Equinix;Spain;1.42;174
+Shanghai 2;Equinix;Italy;1.42;331
+Shanghai 3;Equinix;China;1.42;582
+Shanghai 5;Equinix;China;1.42;582
+Silicon Valley 1;Equinix;United States;1.42;369
+Silicon Valley 10;Equinix;United States;1.42;369
+Silicon Valley 13;Equinix;United States;1.42;369
+Silicon Valley 14;Equinix;France;1.42;56
+Silicon Valley 15;Equinix;United States;1.42;369
+Silicon Valley 16;Equinix;United States;1.42;369
+Silicon Valley 17;Equinix;United States;1.42;369
+Silicon Valley 2;Equinix;United States;1.42;369
+Silicon Valley 3;Equinix;United States;1.42;369
+Silicon Valley 4;Equinix;United States;1.42;369
+Silicon Valley 5;Equinix;United States;1.42;369
+Silicon Valley 6;Equinix;United States;1.42;369
+Silicon Valley 8;Equinix;United States;1.42;369
+Singapore 1;Equinix;Singapore;1.42;471
+Singapore 2;Equinix;United States;1.42;369
+Singapore 3;Equinix;Singapore;1.42;471
+Sofia;Equinix;Bulgaria;1.42;335
+Stockholm 1;Equinix;Netherlands;1.42;268
+Stockholm 2;Equinix;Sweden;1.42;41
+Stockholm 3;Equinix;Netherlands;1.42;268
+Sydney 1;Equinix;Australia;1.42;549
+Sydney 2;Equinix;Australia;1.42;549
+Sydney 3;Equinix;Australia;1.42;549
+Sydney 4;Equinix;Australia;1.42;549
+Tokyo 1;Equinix;Japan;1.42;485
+Tokyo 10;Equinix;Japan;1.42;485
+Tokyo 11;Equinix;Japan;1.42;485
+Tokyo 2;Equinix;Japan;1.42;485
+Tokyo 3;Equinix;Japan;1.42;485
+Tokyo 4;Equinix;Japan;1.42;485
+Tokyo 5;Equinix;Japan;1.42;485
+Tokyo 6;Equinix;Japan;1.42;485
+Tokyo 7;Equinix;Japan;1.42;485
+Tokyo 8;Equinix;Japan;1.42;485
+Tokyo 9;Equinix;Japan;1.42;485
+Toronto;Equinix;Canada;1.42;170
+Toronto 2;Equinix;Canada;1.42;170
+Warsaw 1;Equinix;Poland;1.42;662
+Warsaw 2;Equinix;Poland;1.42;662
+Washington 1;Equinix;United States;1.42;369
+Washington 11;Equinix;Netherlands;1.42;268
+Washington 12;Equinix;United States;1.42;369
+Washington 13;Equinix;Netherlands;1.42;268
+Washington 14;Equinix;United States;1.42;369
+Washington 2;Equinix;United States;1.42;369
+Washington 4;Equinix;Netherlands;1.42;268
+Washington 5;Equinix;United States;1.42;369
+Washington 6;Equinix;United States;1.42;369
+Washington 7;Equinix;United States;1.42;369
+Washington 8;Equinix;United States;1.42;369
+Zurich 1;Equinix;Switzerland;1.42;35
+Zurich 2;Equinix;Switzerland;1.42;35
+Zurich 3;Equinix;Switzerland;1.42;35
+Zurich 4;Equinix;Switzerland;1.42;35
+Zurich 5;Equinix;Switzerland;1.42;35
+St. Leon-Rot;SAP;Germany;1.6;381
+Osaka;SAP;Japan;1.56;485
+Public Cloud Data Centre;SAP;Saudi Arabia;1.56;707
+Sydney;SAP;Australia;1.56;549
+SÃ£o Paulo;SAP;Brazil;1.56;98
+Tokyo;SAP;Japan;1.56;485
+Toronto;SAP;Canada;1.56;170
+Vedomosti;SAP;Belarus;1.6;442
+1 Century Place;Digital Realty;Canada;1.56;170
+1 Foxboro Rd;Digital Realty;United States;1.56;369
+1-21 Templar Road;Digital Realty;Australia;1.56;549
+100 Delawanna Avenue;Digital Realty;United States;1.56;369
+101 Aquila Way;Digital Realty;United States;1.56;369
+105 Cabot St.;Digital Realty;United States;1.56;369
+1100 Space Park Drive;Digital Realty;United States;1.56;369
+111 8th Avenue;Digital Realty;United States;1.56;369
+1125 Energy Park Drive;Digital Realty;United States;1.56;369
+113 N Myers;Digital Realty;United States;1.56;369
+115 Second Avenue;Digital Realty;United Kingdom;1.6;238
+11830 Webb Chapel Road;Digital Realty;United States;1.56;369
+11900 E Cornell Ave;Digital Realty;United States;1.56;369
+120 E. Van Buren;Digital Realty;United States;1.56;369
+12001-12245 North Freeway;Digital Realty;United States;1.56;369
+1201 Comstock;Digital Realty;United States;1.56;369
+1210 Integrity Drive;Digital Realty;United States;1.56;369
+1215 Integrity Drive;Digital Realty;United States;1.56;369
+1232 Alma Road;Digital Realty;United States;1.56;369
+125 North Myers Street;Digital Realty;United States;1.56;369
+128 First Ave;Digital Realty;United Kingdom;1.6;238
+1350 Duane Avenue;Digital Realty;United States;1.56;369
+1420 E Devon Ave;Digital Realty;United States;1.56;369
+150 South First Street;Digital Realty;United States;1.56;369
+1500 Space Park Dr;Digital Realty;United States;1.56;369
+1500 Towerview Road;Digital Realty;United States;1.56;369
+1506 Moran Road;Digital Realty;United States;1.56;369
+1525 Comstock Street;Digital Realty;United States;1.56;369
+17201 Waterview Pkwy;Digital Realty;United States;1.56;369
+1725 Comstock Street;Digital Realty;United States;1.56;369
+1780 Business Center Drive;Digital Realty;United States;1.56;369
+1900 S. Price Road;Digital Realty;United States;1.56;369
+2 Foxboro Rd;Digital Realty;United States;1.56;369
+2 Peekay Drive;Digital Realty;United States;1.56;369
+200 North Nash Street;Digital Realty;United States;1.56;369
+200 Paul Avenue 1-4;Digital Realty;United States;1.56;369
+2001 Sixth Avenue;Digital Realty;United States;1.56;369
+2010 East Centennial Circle;Digital Realty;United States;1.56;369
+2045 & 2055 LaFayette Street;Digital Realty;United States;1.56;369
+2055 E Technology Circle;Digital Realty;United States;1.56;369
+21110 Ridgetop Circle;Digital Realty;United States;1.56;369
+2121 S. Price Road;Digital Realty;United States;1.56;369
+215 Marsh Wall;Digital Realty;United Kingdom;1.6;238
+21551 Beaumeade Cir;Digital Realty;United States;1.56;369
+21561-21571 Beaumeade Cir;Digital Realty;United States;1.56;369
+21625 Gresham Drive;Digital Realty;United Kingdom;1.6;238
+21745 Sir Timothy Drive;Digital Realty;United States;1.56;369
+2200 Busse Road;Digital Realty;United States;1.56;369
+2220 De La Cruz Boulevard;Digital Realty;United States;1.56;369
+2260 East El Segundo Blvd;Digital Realty;United States;1.56;369
+227 Marsh Wall;Digital Realty;United Kingdom;1.6;238
+2299 Busse Road;Digital Realty;United States;1.56;369
+2300 NW 89th Pl;Digital Realty;United States;1.56;369
+2323 Bryan Street;Digital Realty;United States;1.56;369
+2334 Lundy Place;Digital Realty;United States;1.56;369
+2401 Walsh Street;Digital Realty;Australia;1.56;549
+2403 Walsh Street;Digital Realty;United States;1.56;369
+2440 Marsh Lane;Digital Realty;United States;1.56;369
+250 Williams Street NW;Digital Realty;United States;1.56;369
+2501 S State Highway 121;Digital Realty;United States;1.56;369
+2805 Lafayette Street;Digital Realty;United States;1.56;369
+2820 Northwestern Parkway;Digital Realty;United States;1.56;369
+29A International Parkway;Digital Realty;United States;1.56;369
+3 Corporate Place;Digital Realty;United States;1.56;369
+3 Foxboro Park;Digital Realty;United States;1.56;369
+3 Loyang Way;Digital Realty;Singapore;1.56;471
+300 JFK Boulevard East;Digital Realty;United States;1.56;369
+3011 Lafayette Street;Digital Realty;United States;1.56;369
+3015 Winona Avenue;Digital Realty;United States;1.56;369
+3080 Raymond Street;Digital Realty;United States;1.56;369
+3105 Alfred Street;Digital Realty;United States;1.56;369
+32 Avenue of the Americas;Digital Realty;United States;1.56;369
+3205 Alfred Street;Digital Realty;United States;1.56;369
+33 Chun Choi Street;Digital Realty;China;1.56;582
+3433 S. 120th Place;Digital Realty;United States;1.56;369
+350 E Cermak Rd. Chicago;Digital Realty;United States;1.56;369
+36 NE 2nd St;Digital Realty;United States;1.56;369
+360 Spear Street;Digital Realty;United States;1.56;369
+365 Main Street;Digital Realty;United States;1.56;369
+365 S Randolphville;Digital Realty;United States;1.56;369
+371 Gough Road;Digital Realty;Canada;1.56;170
+375 Riverside Parkway;Digital Realty;United States;1.56;369
+3825 NW Aloclek Place;Digital Realty;United States;1.56;369
+400 S Akard Street;Digital Realty;United States;1.56;369
+4025 Midway Rd;Digital Realty;United States;1.56;369
+4030 Lafayette Center Drive;Digital Realty;United States;1.56;369
+4040 Lafayette Center;Digital Realty;United States;1.56;369
+4050 Lafayette Center Drive;Digital Realty;United States;1.56;369
+43790 Devin Shafron Dr;Digital Realty;United States;1.56;369
+43791 Devin Shafron Dr;Digital Realty;United States;1.56;369
+43830 Devin Shafron Dr;Digital Realty;United States;1.56;369
+43881 Devin Shafron Dr;Digital Realty;United States;1.56;369
+43915 Devin Shafron Dr;Digital Realty;United States;1.56;369
+43940 Digital Loudoun Plaza;Digital Realty;United States;1.56;369
+44060 Digital Loudoun Plaza;Digital Realty;United States;1.56;369
+44100 Digital Loudoun Plaza;Digital Realty;United States;1.56;369
+44461 Chilum Place;Digital Realty;United States;1.56;369
+44470 Chillum Place;Digital Realty;United States;1.56;369
+44480 Hastings Drive;Digital Realty;United States;1.56;369
+44480 Hastings Road;Digital Realty;United Kingdom;1.6;238
+44490 Chilum Place;Digital Realty;United States;1.56;369
+44520 Hastings Drive;Digital Realty;United States;1.56;369
+45901 Nokes Blvd;Digital Realty;United States;1.56;369
+47 Milharbour;Digital Realty;United Kingdom;1.6;238
+4849 Alpha Road;Digital Realty;United States;1.56;369
+505 N Railroad Ave;Digital Realty;United States;1.56;369
+55 Middlesex Turnpike;Digital Realty;United States;1.56;369
+55-71 City Rd;Digital Realty;United Kingdom;1.6;238
+56 Marietta Street;Digital Realty;United States;1.56;369
+60 Hudson Street;Digital Realty;United States;1.56;369
+600 Winter St;Digital Realty;United States;1.56;369
+600-780 South Federal;Digital Realty;United States;1.56;369
+6800 Mill Creek Drive;Digital Realty;United States;1.56;369
+717 Leonard Street;Digital Realty;United States;1.56;369
+72 Radnor Drive;Digital Realty;Australia;1.56;549
+720 Second Street;Digital Realty;United States;1.56;369
+731 E Trade St;Digital Realty;United States;1.56;369
+7401 E. Ben White Boulevard;Digital Realty;United States;1.56;369
+7500 Metro Center Dr;Digital Realty;United States;1.56;369
+7505 Mason King Court;Digital Realty;United States;1.56;369
+760 Doug Davis Dr;Digital Realty;United States;1.56;369
+7620 Metro Center Drive;Digital Realty;United States;1.56;369
+80 Merritt Blvd;Digital Realty;United States;1.56;369
+8100 Boone Boulevard;Digital Realty;United States;1.56;369
+8217 Linton Hall Road;Digital Realty;United States;1.56;369
+8435 N. Stemmons Freeway;Digital Realty;United States;1.56;369
+850 E. Collins Blvd;Digital Realty;United States;1.56;369
+8534 Concord Center Dr;Digital Realty;United States;1.56;369
+900 Quality Way;Digital Realty;United States;1.56;369
+904 Quality Way;Digital Realty;United States;1.56;369
+907 Security Row;Digital Realty;United States;1.56;369
+908 Quality Way;Digital Realty;United States;1.56;369
+950 E. Collins Blvd;Digital Realty;United States;1.56;369
+98 Radnor Drive;Digital Realty;Australia;1.56;549
+Accra;Digital Realty;Ghana;1.56;484
+Amstel Business Park;Digital Realty;Netherlands;1.6;268
+Amsterdam Science Park 120;Digital Realty;Netherlands;1.6;268
+Blanchardstown Corp Park;Digital Realty;Ireland;1.6;291
+Bonnington House;Digital Realty;United Kingdom;1.6;238
+Carrier Center Los Angeles;Digital Realty;United States;1.56;369
+Cateringweg 5;Digital Realty;Netherlands;1.6;268
+Chemin de l'Epinglier 2;Digital Realty;Switzerland;1.6;35
+Clonshaugh Industrial Estate;Digital Realty;Ireland;1.6;291
+De President Business Park;Digital Realty;Netherlands;1.6;268
+Gyroscoopweg 2E-2F;Digital Realty;Netherlands;1.6;268
+Liverpoolweg 10;Digital Realty;Netherlands;1.6;268
+Lyoner Strasse 28;Digital Realty;Germany;1.6;381
+Manchester Technopark;Digital Realty;United Kingdom;1.6;238
+Mundells Roundabout;Digital Realty;United Kingdom;1.6;238
+Naritaweg 52;Digital Realty;Netherlands;1.6;268
+Paul van Vlissingenstraat 16;Digital Realty;Netherlands;1.6;268
+Profile Park;Digital Realty;Ireland;1.6;291
+Unit 1 Airport Gate Bath Rd;Digital Realty;United Kingdom;1.6;238
+Watford;Digital Realty;United Kingdom;1.6;238
+Wilhelm Fay Strasse;Digital Realty;Germany;1.6;381
